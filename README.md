@@ -1,4 +1,4 @@
-About Me:
+#About Me:
  Hi, I'm Manyata Sharma!<br><br> I'm a Computer Science Engineering student and an aspiring Software Development Engineer (SDE), passionate about problem-solving and building real-world applications.<br><br> Currently strengthening my skills in Data Structures & Algorithms (Java), backend development, system design, and full-stack engineering.<br><br> Interested in software engineering, scalable applications, open-source contributions, and exploring mobile app development.<br><br> Always open to collaborating on exciting projects and learning from fellow developers.<br><br> I believe in learning by building, solving problems, and continuously improving as an engineer.
 
 
